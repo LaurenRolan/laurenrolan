@@ -1,5 +1,5 @@
-### Welcome / Bem-vindo 👋
-
+### Hello and olá 👋
+I'm still restructuring my repos, so don't mind the mess.
 <!--
 **LaurenRolan/laurenrolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
