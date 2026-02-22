@@ -1,3 +1,5 @@
+![Header](img/github-header-banner.png)
+
 ### Hello and olá 👋
 I'm still restructuring my repos, so don't mind the mess.
 <!--
